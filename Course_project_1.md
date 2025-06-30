@@ -175,7 +175,7 @@ median_total_sums2 <- round(median(total_sums2), digits = 2)
 abline(v = mean_total_sums2)
 ```
 
-![plot of chunk histogram 2](figure/histogram 2-1.png)
+![plot of chunk histogram 2](figure/histogram%202-1.png)
   
 The mean and median of the total number of steps taken per day are 10766.19 and 10766.19, respectively. Both of these numbers correspond to the vertical line plotted in the histogram. In contrast with the mean and median calculated in Part 1, the mean and median of the total number of steps taken per day in the imputed data set are equal to each other. So basically, the median has converged to the mean.
 
