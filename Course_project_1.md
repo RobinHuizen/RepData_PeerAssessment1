@@ -119,7 +119,7 @@ with(activity, plot(unique(interval), avg_daily_steps, type = "l",
 with(activity, abline(v = as.numeric(names(max_avg)), col = "blue"))
 ```
 
-![plot of chunk time series](figure/"time series-1.png")
+![plot of chunk time series](figure/time%20series-1.png)
 
 The 5-minute interval, on average across all the days in the data set, that contains the maximum number of steps is the 5-minute interval that is indicated by 835 and is depicted by the blue vertical line in the time series plot.
 
